@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on a LIFE CHANGING PROJECT...
+- 🌱 I’m currently learning PHP...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 📌 ABOUT ME
+My name is Olawoyin Yusuf Gbolahan a Frontend-Dev also a Backend-Dev. I care deeply about creating a world class websites to my client
+My custom built websites are fast loading, accessible and very easy to manage.
+
+### 👍 MY SKILS
+- HTML
+- CSS
+- JAVSCRIPT
+- SQL
+- PYTHON
+- I’m currently learning PHP
+- I’m looking to collaborate on SENIOR DEVS
+
+
+### 📫 How to reach me: 
+- Tel: 08168028145
+- Whatsapp: 08119045405
+- Twitter: OlawoyinGbolah3
+- Mail: yustee2017@gmail.com 
+
+### ⚡ Fun fact
+CoDe CaN'T LiE, CoMMenTs CaN.😂 
