@@ -21,11 +21,13 @@ My custom built websites are fast loading, accessible and very easy to manage.
 ### 👍 MY SKILS
 - HTML
 - CSS
+- REACT JS
 - JAVSCRIPT
 - SQL
 - PYTHON
-- I’m currently learning PHP
-- I’m looking to collaborate on SENIOR DEVS
+- PHP
+- I’m currently learning LARAVEL
+- I’m looking to collaborate with SENIOR DEVS
 
 
 ### 📫 How to reach me: 
